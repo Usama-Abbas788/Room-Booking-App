@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709341063423",
+    "project_id": "everest-heights",
+    "storage_bucket": "everest-heights.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709341063423:android:beeff3caaca43b641e84ca",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0q_OkOHgIdGUgErJDgWu19XJbaObnncU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
